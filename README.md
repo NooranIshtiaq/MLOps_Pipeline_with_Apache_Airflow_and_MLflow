@@ -389,15 +389,14 @@ docker compose down
 ---
 
 ### Additional Details : 
-Name: MLOps Pipeline - Titanic Survival Prediction
-Topics: mlops, apache-airflow, mlflow, machine-learning, workflow-orchestration, experiment-tracking, docker, data-pipeline, model-registry
+- Name: MLOps Pipeline - Titanic Survival Prediction
+- Topics: mlops, apache-airflow, mlflow, machine-learning, workflow-orchestration, experiment-tracking, docker, data-pipeline, model-registry
 
 ---
 
----
 
 ### Contact :  
-For questions, feedback, or issues, feel free to contact me at: nooranishtiaq@gmail.com
+- For questions, feedback, or issues, feel free to contact me at: nooranishtiaq@gmail.com
 ---
 
 ## References
